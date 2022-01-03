@@ -53,3 +53,17 @@ h2{
     background-repeat: no-repeat;
     background-position: left;
 }
+#last1{
+    border-left: 6px solid;
+    border-image: linear-gradient(rgb(21, 165, 141), rgb(83, 160, 47));
+    border-image-slice: 1%;
+}
+#last2{
+    border-left: 6px solid;
+    border-image: linear-gradient(blue, rgb(14, 37, 37));
+    border-image-slice: 1%;
+}
+footer p{
+    text-align: center;
+    color: red;
+}
