@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 40px;
 }
+h2{
+    font-size: 40px;
+}
 .color{
     color: royalblue;
 }
@@ -37,4 +40,16 @@ h1{
     background-repeat: no-repeat;
     background-position-x: right;
     padding-right: 90px;
+}
+.last-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px royalblue;
+}.last{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
